@@ -55,7 +55,6 @@ function Form(props) {
       }
       form.reset();
     } catch (error) {
-      console.log('error', error);
       messageHelper('error', ERROR_MESSAGE);
     }
   };
