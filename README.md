@@ -3,7 +3,7 @@ Web
 ```
 Node v18.14.1
 ```
-## Clone and start the service
+## Clone and start the web
 ### Step 1
 Clone the git repository
 ```
